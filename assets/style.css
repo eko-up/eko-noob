@@ -373,7 +373,6 @@ img{
 		background: url(img/menu.png);
 		background-position: center;
 		background-repeat: no-repeat;
-		transition: 0.1s;
 		background-size: 30px;
 		cursor: pointer;
 	}
@@ -382,7 +381,6 @@ img{
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 25px;
-		transition: 0.1s;
 		cursor: pointer;
 	}
 	header.sticky .toggle{
